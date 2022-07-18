@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Rakesh Kumar Full Stack Developer
-- 👀 I’m interested in Web Development Project or any web development job
+- 👋 Hi, I’m Rakesh Kumar
 - 🌱 I’m alway ready to learn new technology
-- You can reach me on skype : rakeshkumar2014
-
+- 
 •	A competent professional decade experience in Web Design and Development, Database, Software.
 •	6+ Years experience in Full Stack Development
 •	In-depth experience JavaScript Library React, Redux.
