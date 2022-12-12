@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rakesh Kumar
 - 🌱 I’m alway ready to learn new technology
-- <img src="https://github.com/rakeshsoftweb/rakeshsoftweb/blob/main/webiste-1.jpg"/>
+- <img style="width:30%" src="https://github.com/rakeshsoftweb/rakeshsoftweb/blob/main/webiste-1.jpg"/>
 •	A competent professional decade experience in Web Design and Development, Database, Software.
 •	6+ Years experience in Full Stack Development
 •	In-depth experience JavaScript Library React, Redux.
