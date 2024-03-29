@@ -33,5 +33,3 @@ Webpage designing & optimization
 Coding & Website Improvement
 •	Built reusable code for future use and optimized web pages for 5 application for maximum speed and scalability
 •	Managed brand consistency thought out the design and maintained & improved the company's  website by adding more features and functionality
-
-
