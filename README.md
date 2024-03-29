@@ -2,7 +2,7 @@
 - 🌱 I’m alway ready to learn new technology
 - 
 •	A competent professional decade experience in Web Design and Development, Database, Software.
-•	6+ Years experience in Full Stack Development
+• In-depth experience in Full Stack Development
 •	In-depth experience JavaScript Library React, Redux.
 •	In-depth experience Clientside Framework Angular
 •	In-Depth experience in Web Technology HTML,CSS, bootstrap
