@@ -7,7 +7,6 @@
 •	In-depth experience Clientside Framework Angular
 •	In-Depth experience in Web Technology HTML,CSS, bootstrap
 •	Hands on experience on Node.js, Mongo dB, Express.js, GraphQL
-•	<h5>10 Years experience in Full Stack Development</h5>
 
 UI Components Designing & Application Interface Coding
 •	Identified web-based user interactions and developed highly-responsive user interface components via React concepts.
