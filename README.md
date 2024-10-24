@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rakesh Kumar
 - 🌱 I’m alway ready to learn new technology
 - 
-•	A competent professional decade experience in Web Design and Development, Database, Software.
+•	A competent professional decade experience in Data science, Web Design and Development, Database, Software, 
 • In-depth experience in Full Stack Development
 •	In-depth experience JavaScript Library React, Redux.
 •	In-depth experience Clientside Framework Angular
